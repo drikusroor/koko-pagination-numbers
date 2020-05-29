@@ -1,0 +1,24 @@
+{
+  "name": "koko-pagination-numbers",
+  "version": "1.0.0",
+  "description": "A function to generate page numbers with dots for navigation purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drikusroor/koko-pagination-numbers.git"
+  },
+  "keywords": [
+    "pagination",
+    "numbers",
+    "navigation"
+  ],
+  "author": "Drikus Roor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drikusroor/koko-pagination-numbers/issues"
+  },
+  "homepage": "https://github.com/drikusroor/koko-pagination-numbers#readme"
+}
